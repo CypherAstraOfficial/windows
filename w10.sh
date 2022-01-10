@@ -1,7 +1,7 @@
 echo "===================================="
 echo "Download windows files"
 echo "===================================="
-curl -L -o Windows.img https://filetransfer.io/data-package/C3SjGTcQ/download
+curl -L -o 17763.737.190906-2324.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us_1.iso https://filetransfer.io/data-package/dgIA1I9l/download
 echo "===================================="
 echo "Download ngrok"
 echo "===================================="
